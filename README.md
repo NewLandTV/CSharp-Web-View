@@ -2,6 +2,9 @@
 
 C# Web View.
 
+[![Development Note p.297](https://img.youtube.com/vi/9S5e2f2ma50/0.jpg)](https://www.youtube.com/watch?v=9S5e2f2ma50)
+
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv 유튜브)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
